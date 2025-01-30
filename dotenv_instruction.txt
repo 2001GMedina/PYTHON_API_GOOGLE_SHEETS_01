@@ -1,0 +1,5 @@
+#ORACLE_CONN_STRING=oracle_user/password@host/name
+ORACLE_CONN_STRING=oracle_user:password@host/name
+GOOGLE_API_CREDENTIALS=google_Cred_json_path/intkpi-9999999999.json
+MEDIC_VISIT=https://docs.google.com/spreadsheets/d/your_spreadsheet_link
+MEDIC_EXTERNAL=https://docs.google.com/spreadsheets/d/your_spreadsheet_link
