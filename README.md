@@ -1,7 +1,7 @@
 Google Sheets to Oracle:
 This project collects data from Google Sheets using the Google API, processes the necessary information, and inserts it into an Oracle table. It is useful for collecting real-time data from Google Sheets and integrating it into a relational database.
 
-Configuration
+Configuration:
 Create a .env file in the root directory of the project with the following environment variables:
 
 ORACLE_CONN_STRING=oracle_user:password@host/name  
@@ -15,7 +15,7 @@ Create a config folder in the root directory of the project and place the follow
 The instantclient_19_21 folder (Oracle Instant Client)
 The .json authorization file for the Google API
 
-Usage
+Usage:
 Run the script to collect data from Google Sheets and insert it into the Oracle table:
 
 python main.py
