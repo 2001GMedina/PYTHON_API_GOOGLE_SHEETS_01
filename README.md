@@ -1,4 +1,4 @@
-Google Sheets to Oracle
+Google Sheets to Oracle:
 This project collects data from Google Sheets using the Google API, processes the necessary information, and inserts it into an Oracle table. It is useful for collecting real-time data from Google Sheets and integrating it into a relational database.
 
 Configuration
